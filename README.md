@@ -28,3 +28,4 @@ Feel free to fork this repository and submit pull requests to enhance the functi
 
 ## License
 This project is open source and available under the [MIT License](LICENSE).
+Images are licensed for this website only, if you want to license them as well you can check them out on [Envato Elements](https://1.envato.market/m5m6y7).

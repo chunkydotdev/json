@@ -3,7 +3,6 @@
 This project demonstrates how to build a responsive navigation bar and integrate a simple web application that fetches and displays Chuck Norris jokes using the `api.chucknorris.io` API. It's a great example for beginners to learn about JSON, APIs, and basic JavaScript fetch operations.
 
 ## Features
-- Responsive Navigation Bar: Adapts to different device sizes using CSS and media queries.
 - Dynamic Data Fetching: Uses the JavaScript `fetch` API to retrieve jokes in JSON format from a public API.
 - Interactive UI: Allows users to generate new jokes on demand via a button click.
 
